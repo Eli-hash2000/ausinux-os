@@ -16,7 +16,6 @@ modules:
     snippets:
       - "wallpaper.sh"
 
-modules:
   - type: files
     files:
       - source: system
