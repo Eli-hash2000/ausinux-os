@@ -3,10 +3,10 @@
 # image will be published to ghcr.io/<user>/<name>
 name: ausinux-os
 # description will be included in the image's metadata
-description: This is my personal OS image.
+description: Personal Test OS to Experiemnt With Custom FEDORA ATOMIC
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/silverblue-main
+base-image: ghcr.io/ublue-os/kinoite-main
 image-version: latest # You can pin to a specific version of Fedora as well
 
 # module configuration, executed in order
