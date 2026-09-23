@@ -155,7 +155,7 @@ DialogHeight=630
 DialogWidth=810
 
 [Containments][26][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/ausinux_default/au_os.jpg
+Image=file:/usr/share/wallpapers/ausinux_default/au_os.jpg
 SlidePaths=/usr/share/wallpapers/
 
 [ScreenMapping]
