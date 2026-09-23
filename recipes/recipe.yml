@@ -28,6 +28,8 @@ modules:
         - rclone
         - fastfetch
     remove:
+        - kmines
+        - kptience
       packages:
         # example: removing firefox (in favor of the flatpak)
         # "firefox" is the main package, "firefox-langpacks" is a dependency
@@ -45,6 +47,7 @@ modules:
           - md.obsidian.Obsidian
           - org.libreoffice.LibreOffice
           - org.kde.kate
+          - io.github.shiftey.Desktop
       - scope: user # Also add Flathub user repo, but no user packages
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
