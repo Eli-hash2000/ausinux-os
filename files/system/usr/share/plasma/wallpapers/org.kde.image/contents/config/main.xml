@@ -26,7 +26,7 @@
         - if no fragment is specified, plasma will switch between dark and light
           images depending on the currently used color scheme
       </tooltip>
-      <default>/usr/share/wallpapers/ausinux_default/au_os.jpg</default>
+      <default>///usr/share/wallpapers/ausinux_default/au_os.jpg</default>
     </entry>
     <entry name="PreviewImage" type="String">
       <label>Wallpaper preview image path</label>
